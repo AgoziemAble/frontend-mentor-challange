@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#qr-code-container {
+    font-family: Outfit;
+    padding: 150px;
+    background-color: #d6e2f0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:  1248px;
+}
+
+#qr-bx {
+   
+    padding: 5px;
+    background-color: #ffffff;
+    width: 250px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+#text-content-div{
+    text-align: center;
+}
+
+h2 {
+    color: #1f3251;
+    margin-bottom: 5px;
+    font-weight: 700px;
+    font-size: large;
+    padding: 5px;
+    text-align: center;
+
+}
+
+#text-content-div p {
+    text-align: center;
+    color: #7b879d;
+    padding: 5px 10px 5px 10px;
+    font-weight: 400px;
+    font-size: 15px;
+
+}
+
+img{
+width: 100%;
+padding: 5px;
+border-radius: 20px;
+}
+
+#text-content-div {
+width: 100%;
+padding: 10px;
+
+}
+
+@media (max-width: 1200px) {
+    #qr-code-container {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    #qr-bx {
+        width: 200px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 1100px) {
+    #qr-code-container {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    #qr-bx {
+        width: 200px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 1000px) {
+    #qr-code-container {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    #qr-bx {
+        width: 200px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 900px) {
+    #qr-code-container {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    #qr-bx {
+        width: 200px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 800px) {
+    #qr-code-container {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    #qr-bx {
+        width: 200px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 500px) {
+    #qr-code-container {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    #qr-bx {
+        width: 200px;
+        margin: 0 auto;
+    }
+}
+/* 375px mobile size but am  using 452 */
